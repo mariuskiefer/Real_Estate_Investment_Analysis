@@ -13,7 +13,7 @@ library(tidyverse)
 ### https://www.kaggle.com/datasets/aravinii/house-price-prediction-treated-dataset/data
 
 ```{r}
-ht = read.csv("/.../.../.../df_test.csv")
+ht = read.csv("/.../.../.../data.csv")
 ```
 
 ```{r}
