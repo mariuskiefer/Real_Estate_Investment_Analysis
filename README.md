@@ -2,7 +2,7 @@
 
 This repository presents a data-driven approach to analyzing real estate investments. It focuses on visualizing key metrics and trends to support strategic investment decisions.
 
-## 📁 Project Structure
+## Project Structure
 
 ### Data Files
 - `data.csv`: Dataset containing property features and historical investment data.
